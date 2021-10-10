@@ -1,0 +1,23 @@
+.container {
+  /* align-self: center; */
+  margin: auto;
+  max-width: 1024px;
+}
+
+body {
+  text-align: center;
+  background-color: rgb(211, 211, 211);
+  font-family: Helvetica, "open-sans", "san-serif";
+}
+.canvas-layout {
+  max-height: 768px;
+  max-width: 1024px;
+  border: 1px solid lightslategray;
+  padding: 5px;
+  margin: auto;
+  background-color: #fff;
+}
+
+button {
+  float: right;
+}
